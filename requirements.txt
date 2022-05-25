@@ -134,7 +134,7 @@ pycparser==2.20
 pycryptodome==3.10.1
 Pygments==2.6.1
 pygments-lexer-solidity==0.5.1
-PyJWT==1.7.1
+PyJWT==2.4.0
 pyparsing==2.4.7
 pyperclip==1.8.2
 pyrsistent==0.17.3
