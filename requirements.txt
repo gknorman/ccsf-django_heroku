@@ -187,7 +187,7 @@ userpath==1.4.2
 varint==1.0.2
 virtualenv==20.4.4
 vvm==0.1.0
-vyper==0.2.12
+vyper==0.3.3
 wcwidth==0.2.5
 web3==5.11.1
 webencodings==0.5.1
